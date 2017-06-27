@@ -25,10 +25,7 @@ Feel free to copy and paste quotes from elsewhere (with links to the original so
  1. What does a bad question look like?
  	* 
  1. What does a good question look like?
- 	* A good question should:
- 		1. Provide the context of the problem, in the form of debug trace or environment setting (OS, language, version)
- 		1. Provide concise instruction to reproduce the symptom of the problem.
- 		1. Not make an enquiry too general. 
+ 	* 
  1. Typical sources of information
  	* 
  
@@ -78,8 +75,7 @@ Feel free to copy and paste quotes from elsewhere (with links to the original so
  1. where's your data? tests? libraries? scripts?
  	* 
  1. documentation
-	 * Document at different levels.
-	 
+	 * Document at different levels. 
   1. why? where? who is it for? (hint: *you in X months time*)
   	* 
   1. different types of documentation
