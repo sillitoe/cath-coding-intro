@@ -77,13 +77,13 @@ Feel free to copy and paste quotes from elsewhere (with links to the original so
  1. documentation
 	 * Document at different levels. 
  1. why? where? who is it for? (hint: *you in X months time*)
-  	* 
+  	*  
  1. different types of documentation
-  	* 
+  	*  
  1. considering maintenance
-  	* 
+  	*  
  1. how to encourage good documentation?
-  	* 
+  	*  
   
 ### 6. Runtime debugger
 
