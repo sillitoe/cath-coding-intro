@@ -23,11 +23,11 @@ Feel free to copy and paste quotes from elsewhere (with links to the original so
 ### 1. How to get help
 
  1. What does a bad question look like?
- 	*  
+ 	* A
  1. What does a good question look like?
- 	*  
+ 	* A
  1. Typical sources of information
- 	*  
+ 	* A
  
 ### 2. Version control
 
