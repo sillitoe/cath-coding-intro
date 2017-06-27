@@ -32,9 +32,9 @@ Feel free to copy and paste quotes from elsewhere (with links to the original so
 ### 2. Version control
 
  1. why is this important?
- 	* 
+ 	* A
  1. when should it be used?
- 	* 
+ 	* A
  1. what does a [basic git flow](https://www.atlassian.com/git/tutorials/comparing-workflows) look like? (and [more complex flows](http://nvie.com/posts/a-successful-git-branching-model/))
  	* 
  1. what does a "good" commit look like?
@@ -45,17 +45,17 @@ Feel free to copy and paste quotes from elsewhere (with links to the original so
 ### 3. Testing 
 
  1. why is testing important?
- 	* 
+ 	* A
  1. specifically to programming in a scientific environment? 
- 	* 
+ 	* A
  1. how can testing be implemented?
- 	* 
+ 	* A
  1. when should it happen?
- 	* 
+ 	* A
  1. what is TDD? (key aspects? why is it useful?)
 	* [TDD with Python](https://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137) 
  1. what is CI? (key aspects? why is it useful?)
- 	* 
+ 	* A
  1. what is benchmarking? how is it different to testing?
  	* Benchmark is concerned with performance.
 
@@ -66,24 +66,24 @@ Feel free to copy and paste quotes from elsewhere (with links to the original so
  1. why is it important?
  	* Code/Data integrity (Refer to data integrity.) That means less reduandency and less prone to random mutations.
  1. how does this idea translate into code?
- 	* 
+ 	* A
  1. are there any exceptions where you might want to ignore this? (hint: *dependencies*)
 	* Overhead of dependency and copyright problem.
 
 ### 5. Organisation
 
  1. where's your data? tests? libraries? scripts?
- 	* 
+ 	* A
  1. documentation
 	 * Document at different levels. 
  1. why? where? who is it for? (hint: *you in X months time*)
- 	*
+ 	* A
  1. different types of documentation
-	* 
+	* A
  1. considering maintenance
-	* 
+	* A
  1. how to encourage good documentation?
-	* 
+	* A
   
 ### 6. Runtime debugger
 
