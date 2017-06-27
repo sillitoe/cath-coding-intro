@@ -1,5 +1,7 @@
 # Intro to collaborative coding
 
+#### Tip: this is a markdown file. It uses a set of [symbols](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to allow rapid formatting of the document. You can use a text editor or a specialised markdown editor (such as [Remarkable](https://remarkableapp.github.io/)).
+
 ## About
 
 This is not meant to be a guide to programming. It's also not meant to be a definitive guide to *Python*, *testing*, *version control* or any other topic mentioned here.
