@@ -41,8 +41,7 @@ Feel free to copy and paste quotes from elsewhere (with links to the original so
  1. how can testing be implemented?
  1. when should it happen?
  1. what is TDD? (key aspects? why is it useful?)
- 
- [TDD with Python](https://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137) 
+	* [TDD with Python](https://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137) 
  1. what is CI? (key aspects? why is it useful?)
  1. what is benchmarking? how is it different to testing?
  	Benchmark is concerned with performance.
