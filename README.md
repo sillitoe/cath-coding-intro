@@ -21,13 +21,18 @@ Feel free to copy and paste quotes from elsewhere (with links to the original so
 ### 1. How to get help
 
  1. What does a bad question look like?
+    **Answer:** my _X_ is not working, what do I do?
  1. What does a good question look like?
- 1. Typical sources of information
+    **Answer:** my _X_ does _Y_ instead of _Z_. How do I fix it?
+ 1. Typical sources of information. 
+ **Answer:** [Google](https://www.google.co.uk/?gws_rd=ssl), [stack overflow](https://stackoverflow.com/), dedicated subreddit, known experts on the subject
  
 ### 2. Version control
 
  1. why is this important?
+ **Answer:** being able to always have a working/presentable version of a code/thing is crucial. Tracking bugs is easier since you can check when X stopped working.
  1. when should it be used?
+ **Answer:** if there is a change in the code that affect the result in any noticeable way/if it took you longer than 5 minutes to make the change.
  1. what does a [basic git flow](https://www.atlassian.com/git/tutorials/comparing-workflows) look like? (and [more complex flows](http://nvie.com/posts/a-successful-git-branching-model/))
  1. what does a "good" commit look like?
  1. have a go (fork this repo, fill in your own answers)
