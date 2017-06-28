@@ -1,5 +1,7 @@
 # Intro to collaborative coding
 
+#### Tip: this is a markdown file. It uses a set of [symbols](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to allow rapid formatting of the document. You can use a text editor or a specialised markdown editor (such as [Remarkable](https://remarkableapp.github.io/)).
+
 ## About
 
 This is not meant to be a guide to programming. It's also not meant to be a definitive guide to *Python*, *testing*, *version control* or any other topic mentioned here.
@@ -34,32 +36,54 @@ Feel free to copy and paste quotes from elsewhere (with links to the original so
  1. when should it be used?
  **Answer:** if there is a change in the code that affect the result in any noticeable way/if it took you longer than 5 minutes to make the change.
  1. what does a [basic git flow](https://www.atlassian.com/git/tutorials/comparing-workflows) look like? (and [more complex flows](http://nvie.com/posts/a-successful-git-branching-model/))
+ 	* 
  1. what does a "good" commit look like?
+ 	* [Tips for good commit msgs.](https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message) 
  1. have a go (fork this repo, fill in your own answers)
+ 	* [Tips for forking and branching](http://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/)
 
 ### 3. Testing 
 
  1. why is testing important?
+ 	* A
  1. specifically to programming in a scientific environment? 
+ 	* A
  1. how can testing be implemented?
+ 	* A
  1. when should it happen?
+ 	* A
  1. what is TDD? (key aspects? why is it useful?)
+	* [TDD with Python](https://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137) 
  1. what is CI? (key aspects? why is it useful?)
+ 	* A
  1. what is benchmarking? how is it different to testing?
+ 	* Benchmark is concerned with performance.
 
 ### 4. DRY
 
  1. what does it mean?
+ 	* "[Don't repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)"
  1. why is it important?
+ 	* Code/Data integrity (Refer to data integrity.) That means less reduandency and less prone to random mutations.
  1. how does this idea translate into code?
+ 	* A
  1. are there any exceptions where you might want to ignore this? (hint: *dependencies*)
+	* Overhead of dependency and copyright problem.
 
 ### 5. Organisation
 
  1. where's your data? tests? libraries? scripts?
+ 	* A
  1. documentation
-  1. why? where? who is it for? (hint: *you in X months time*)
-  1. different types of documentation
-  1. considering maintenance
-  1. how to encourage good documentation?
+	 * Document at different levels. 
+ 1. why? where? who is it for? (hint: *you in X months time*)
+ 	* A
+ 1. different types of documentation
+	* A
+ 1. considering maintenance
+	* A
+ 1. how to encourage good documentation?
+	* A
+  
+### 6. Runtime debugger
 
